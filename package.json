@@ -1,0 +1,35 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "back-end  project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimod7890/bomweb.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Bom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimod7890/bomweb/issues"
+  },
+  "homepage": "https://github.com/nimod7890/bomweb#readme",
+  "dependencies": {
+<<<<<<< HEAD
+    "mysql": "^2.18.1",
+    "pm2": "^5.1.0",
+    "react-scripts": "^4.0.3",
+    "sanitize-html": "^2.4.0"
+  }
+=======
+    "sanitize-html": "^2.4.0",
+    "react-scripts": "^4.0.3"
+  },
+  "devDependencies": {}
+>>>>>>> 9443e13a5c24480ae32e451301d12692d1606663
+}
