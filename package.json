@@ -20,16 +20,9 @@
   },
   "homepage": "https://github.com/nimod7890/bomweb#readme",
   "dependencies": {
-<<<<<<< HEAD
     "mysql": "^2.18.1",
     "pm2": "^5.1.0",
     "react-scripts": "^4.0.3",
     "sanitize-html": "^2.4.0"
   }
-=======
-    "sanitize-html": "^2.4.0",
-    "react-scripts": "^4.0.3"
-  },
-  "devDependencies": {}
->>>>>>> 9443e13a5c24480ae32e451301d12692d1606663
 }
